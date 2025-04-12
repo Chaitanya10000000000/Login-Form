@@ -22,10 +22,11 @@ Check out the live version here:
 
 - HTML5
 - CSS3
-  
-   ✨ Customization
-You can customize the colors, fonts, or layout directly in the style.css file.
 
+  
+✨ Customization
+
+You can customize the colors, fonts, or layout directly in the style.css file.
 Add JavaScript for additional features like form validation or animations.
 
 🧑‍💻 Author
