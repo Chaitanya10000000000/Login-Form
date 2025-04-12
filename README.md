@@ -16,7 +16,7 @@ A clean and responsive login form built using only **HTML** and **CSS**. This pr
 ## 🚀 Live Demo
 
 Check out the live version here:
-[Demo Link]("target="_blank"https://chaitanya10000000000.github.io/Projects)  
+[Demo Link]("https://chaitanya10000000000.github.io/Projectstarget=_blank")  
 
 ## 🛠️ Technologies Used
 
