@@ -20,8 +20,8 @@ A clean and responsive login form built using only **HTML** and **CSS**. This pr
 
 ## 🛠️ Technologies Used
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 
 ✨ Customization
 
