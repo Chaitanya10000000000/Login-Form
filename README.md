@@ -24,11 +24,7 @@ Check out the live version here:
 
 - HTML5
 - CSS3
-
-  1. Clone the repository:
-   ```bash
-   git clone https://github.com/Chaitanya10000000000/login-form.git
-
+  
    ✨ Customization
 You can customize the colors, fonts, or layout directly in the style.css file.
 
