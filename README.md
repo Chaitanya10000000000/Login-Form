@@ -30,7 +30,7 @@ Add JavaScript for additional features like form validation or animations.
 
 🧑‍💻 Author
 
-Chaitamya Tatkare
+Chaitanya Tatkare
 https://github.com/Chaitanya10000000000
 
 📄 License
