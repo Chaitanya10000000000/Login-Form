@@ -11,8 +11,6 @@ A clean and responsive login form built using only **HTML** and **CSS**. This pr
 
 ## 📸 Screenshot
 
-![Login Form Screenshot]
-
 ![Login-Form](https://github.com/user-attachments/assets/1fa7d2ec-38fc-4e45-bebc-6c76c22ebf17)
 
 ## 🚀 Live Demo
